@@ -1,6 +1,6 @@
 # Front-End
 
-## types of news
+## types of post
 - Events
 - reaccurring lessons
 - announcments
