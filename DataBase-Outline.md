@@ -7,6 +7,8 @@
 | password | string | 
 | subscribedTo | Array | 
 | email | string | 
+| Role | Enum | 
+
 
 
 ## Post Schema
