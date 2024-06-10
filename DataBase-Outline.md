@@ -19,3 +19,4 @@
 | Type | Enum | 
 | description | string | 
 | featured | bool | 
+| recurring | bool | 
